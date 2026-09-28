@@ -43,9 +43,13 @@ Me chamo Isabela, tenho 16 anos e sou de São Paulo. Estou cursando o ensino mé
 
 ### 📊 Estatísticas no GitHub
 
-### 📊 Estatísticas no GitHub
-
-<p align="left">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ilsailxd&theme=tokyonight" alt="Sequência de Contribuições" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ilsailxd&theme=tokyonight&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=6" alt="Linguagens mais usadas" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ilsailxd&theme=tokyonight" alt="Sequência de Contribuições" />
+    </td>
+    <td align="center">
+      <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ilsailxd&theme=tokyonight" alt="Linguagens mais usadas" />
+    </td>
+  </tr>
+</table>
